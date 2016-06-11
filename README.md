@@ -6,8 +6,9 @@
   \ \ \L\ \\ \ \ \ \_/\  __/     /\ \_\ \/\ \L\ \ \ \_\ \ \ \/ /\ \/\ \/\ \L\.\_ \_\ \_ 
    \ \____/ \ \_\ \_\\ \____\    \ \____/\ \____/\ \____/\ \_\ \ \_\ \_\ \__/.\_\/\____\
     \/___/   \/_/\/_/ \/____/     \/___/  \/___/  \/___/  \/_/  \/_/\/_/\/__/\/_/\/____/
+     A living life calendar 
 ```
-> Document, visualize and navigate your life, ...
+> Document, visualize and navigate your life, ... 
 
 ## Inspirations
 
