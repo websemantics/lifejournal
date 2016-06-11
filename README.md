@@ -1,0 +1,2 @@
+# lifejournal
+Document your life
